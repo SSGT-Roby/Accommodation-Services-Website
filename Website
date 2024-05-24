@@ -1,0 +1,66 @@
+`index.html`
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JAN Example</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your custom CSS file -->
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Job Accommodation Network</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#resources">Resources</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About JAN</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ullamcorper, libero quis commodo dignissim.</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Accommodation Ideas</li>
+                <li>Consultation</li>
+                <li>Training</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="resources">
+        <div class="container">
+            <h2>Resources</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ullamcorper, libero quis commodo dignissim.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Email: info@janexample.com</p>
+            <p>Phone: 123-456-7890</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Job Accommodation Network Example. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
